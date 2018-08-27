@@ -1,2 +1,0 @@
-# Cart
-Created with CodeSandbox
