@@ -1,0 +1,7 @@
+.image-container {
+  display: flex;
+  width: 150px;
+}
+.button-container {
+  display: flex;
+}
